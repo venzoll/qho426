@@ -1,0 +1,15 @@
+[[package]]
+name = "zxbasic"
+version = "1.12.0"
+description = "Boriel's ZX BASIC Compiler"
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.8"
+content-hash = "628aae7085e64497b5cb6d0f44a9387dfe06266807f346954b2a6ccbfb0c993d"
+
+[metadata.files]
+zxbasic = []
