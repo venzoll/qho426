@@ -1,7 +1,7 @@
 #print("Hello World")
 #import basics.output.simple_message
-import basics.output.multiline_message
-#import basics.output.escape_characters
+#import basics.output.multiline_message
+import basics.output.escape_characters
 #import basics.output.ascii_art
 #import basics.input.user_input
 #import basics.input.ascii_robot
