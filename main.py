@@ -4,6 +4,6 @@
 #import basics.output.escape_characters
 #import basics.output.ascii_art
 #import basics.input.user_input
-import basics.input.ascii_robot
-#import basics.input.data_types
+#import basics.input.ascii_robot
+import basics.input.data_types
 #import basics.input.strOper
