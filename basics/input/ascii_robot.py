@@ -1,8 +1,10 @@
-# Display a box
-print("Please enter a character for the eye")
-eye = input()
-print("Beep's expression is now as follows:")
+
+# Ask user for eye character 
+print("Please enter eye character")
+eye = input() 
+
+# Display an ascii art robot
 print("##########")
-print("#    eye.form.    #" )
-print("#   ----     #")
+print(f"#  {eye}  {eye}   #")
+print("#  ----  #")
 print("##########")
