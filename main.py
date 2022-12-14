@@ -12,4 +12,5 @@
 #import decisions.simpleDecisions.if_else
 #import decisions.simpleDecisions.if_elif_else
 #import decisions.simpleDecisions.modulo_operator
-import decisions.simpleDecisions.comparison_operators
+#import decisions.simpleDecisions.comparison_operators
+import decisions.simpleDecisions.counter

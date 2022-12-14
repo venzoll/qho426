@@ -9,3 +9,4 @@ elif a < b :
 else :
   print("Both are equal!")
 
+
