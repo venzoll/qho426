@@ -10,4 +10,5 @@
 #import basics.input.glasses
 #import decisions.simpleDecisions.if_
 #import decisions.simpleDecisions.if_else
-import decisions.simpleDecisions.if_elif_else
+#import decisions.simpleDecisions.if_elif_else
+import decisions.simpleDecisions.modulo_operator
