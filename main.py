@@ -8,4 +8,5 @@
 #import basics.input.data_types
 #import basics.input.strOper
 #import basics.input.glasses
-import decisions.if_
+#import decisions.simpleDecisions.if_
+import decisions.simpleDecisions.if_else
