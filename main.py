@@ -18,4 +18,5 @@
 #import basics.decisions.nestedDecisions.multipleNested
 #import basics.decisions.orOperator
 #import basics.decisions.andOperator
-import basics.repetitions.whileLoops.simple
+#import basics.repetitions.whileLoops.simple
+import basics.repetitions.whileLoops.count
