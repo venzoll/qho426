@@ -20,4 +20,5 @@
 #import basics.decisions.andOperator
 #import basics.repetitions.whileLoops.simple
 #import basics.repetitions.whileLoops.count
-import basics.repetitions.whileLoops.ascii
+#import basics.repetitions.whileLoops.ascii
+import basics.repetitions.whileLoops.len
