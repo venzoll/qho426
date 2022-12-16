@@ -31,4 +31,5 @@
 #import basics.repetitions.forLoops.characters
 #import basics.repetitions.forLoops.reverse
 #import basics.repetitions.forLoops.membershipOperator
-import basics.repetitions.nestedLoops.nested
+#import basics.repetitions.nestedLoops.nested
+import basics.repetitions.nestedLoops.nesting
