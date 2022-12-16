@@ -27,4 +27,5 @@
 #import basics.repetitions.whileLoops.factorial
 #import basics.repetitions.forLoops.simple
 #import basics.repetitions.forLoops.countSteps
-import basics.repetitions.forLoops.range
+#import basics.repetitions.forLoops.range
+import basics.repetitions.forLoops.characters
