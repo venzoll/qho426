@@ -22,4 +22,5 @@
 #import basics.repetitions.whileLoops.count
 #import basics.repetitions.whileLoops.ascii
 #import basics.repetitions.whileLoops.len
-import basics.repetitions.whileLoops.sum100
+#import basics.repetitions.whileLoops.sum100
+import basics.repetitions.whileLoops.sumUserNumbers
