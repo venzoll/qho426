@@ -33,4 +33,5 @@
 #import basics.repetitions.forLoops.membershipOperator
 #import basics.repetitions.nestedLoops.nested
 #import basics.repetitions.nestedLoops.nesting
-import basics.functions.asciiCode
+#import basics.functions.asciiCode
+import basics.functions.asciiCharacter
