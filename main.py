@@ -42,4 +42,5 @@
 #import basics.functions.functionWithParameters
 #import basics.functions.multipleFunctions
 #import basics.functions.returnValues
-import basics.functions.functionCalls
+#import basics.functions.functionCalls
+import basics.modules.guessTheNumber
