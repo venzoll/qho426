@@ -39,4 +39,5 @@
 #import basics.functions.functionWithNesting
 #import basics.functions.functionWithParameter
 #import basics.functions.functionWithLoop
-import basics.functions.functionWithParameters
+#import basics.functions.functionWithParameters
+import basics.functions.multipleFunctions
