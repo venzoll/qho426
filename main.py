@@ -37,4 +37,5 @@
 #import basics.functions.asciiCharacter
 #import basics.functions.simpleFunction
 #import basics.functions.functionWithNesting
-import basics.functions.functionWithParameter
+#import basics.functions.functionWithParameter
+import basics.functions.functionWithLoop
