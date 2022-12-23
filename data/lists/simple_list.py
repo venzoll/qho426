@@ -4,5 +4,6 @@ def directions():
 
 def run():
   print(directions())
+  directions = directions
 
 run()
