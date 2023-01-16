@@ -60,5 +60,6 @@
 #import data.files.txt.read
 #import data.files.txt.write
 #import data.files.txt.generate
-import visual.plots.simple
+#import visual.plots.simple
+import visual.plots.sqares
 
