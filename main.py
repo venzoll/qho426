@@ -62,5 +62,6 @@
 #import data.files.txt.generate
 #import visual.plots.simple
 #import visual.plots.sqares
-import visual.plots.path
+#import visual.plots.path
+import visual.plots.dict
 
